@@ -1,0 +1,104 @@
+repo_name: vladdou/yew
+report_id: 2ea305dd6b76b4b04a58bd5abeda5ab4
+version: 0.1
+repo_type: Public
+timestamp: '2024-07-26T05:30:20+00:00'
+requested_by: bors[bot]
+provider: github
+branch: master
+detected_tools_count: 8
+tools:
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/vladdou/yew/blob/master/Cargo.toml
+  detection_source: Cargo.toml
+  last_updated_by: Denis Kolodin
+  last_updated_on: 2017-12-24 08:32:19.000000000 Z
+- name: Rust
+  description: A safe, concurrent, practical language
+  website_url: http://www.rust-lang.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1070/v7txhrjp9pdqrkdtxxp0.png
+  detection_source_url: https://github.com/vladdou/yew
+  detection_source: Repo Metadata
+- name: Serde
+  description: Serialization framework for Rust
+  website_url: https://serde.rs
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Serialization Frameworks
+  image_url: https://img.stackshare.io/service/11028/no-img-open-source.png
+  detection_source_url: https://github.com/vladdou/yew/blob/master/Cargo.toml
+  detection_source: Cargo.toml
+  last_updated_by: Denis Kolodin
+  last_updated_on: 2018-05-31 17:09:42.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/vladdou/yew
+  detection_source: Repo Metadata
+- name: Travis CI
+  description: A hosted continuous integration service for open source and private
+    projects
+  website_url: http://travis-ci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/460/Lu6cGu0z_400x400.png
+  detection_source_url: https://github.com/vladdou/yew/blob/master/.travis.yml
+  detection_source: ".travis.yml"
+  last_updated_by: Jan Bujak
+  last_updated_on: 2018-02-04 12:27:26.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/vladdou/yew/blob/master/Cargo.toml
+  detection_source: Cargo.toml
+  last_updated_by: Denis Kolodin
+  last_updated_on: 2017-12-16 14:19:27.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/vladdou/yew
+  detection_source: Repo Metadata
+- name: Slab
+  description: The knowledge base that democratizes knowledge
+  website_url: https://slab.com/
+  open_source: false
+  hosted_saas: false
+  category: Support, Sales, and Marketing
+  sub_category: CRM
+  image_url: https://img.stackshare.io/service/10513/default_9591727ecf23f05f0768ce630904ad0c6c20d1ab.jpg
+  detection_source_url: https://github.com/vladdou/yew/blob/master/Cargo.toml
+  detection_source: Cargo.toml
+  last_updated_by: Denis Kolodin
+  last_updated_on: 2017-12-16 14:19:27.000000000 Z
